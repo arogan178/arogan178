@@ -12,8 +12,8 @@ On the side:
 <details>
 <summary>My GitHub Stats</summary>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=arogan178&theme=dark&hide_border=false&count_private=true" width = 410>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=arogan178&theme=dark&hide_border=false&count_private=true" width = 450>
+  <img src = "https://github-readme-stats.vercel.app/api?username=arogan178&theme=dark&hide_border=false&count_private=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=arogan178&theme=dark&hide_border=false&count_private=true" width = 400>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=arogan178&layout=compact&theme=dark" width = 400>
 </p>
 </details>
