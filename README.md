@@ -1,7 +1,7 @@
 ## Hi there I'm Andrea 👋 <img src = "https://gpvc.arturio.dev/arogan178" align = "right" >
  <a href="https://www.linkedin.com/in/andrea-bugeja" target="_blank" rel="nofollow"><img align="right" alt="Andrea's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-I am a devops analyst at [APS Bank](https://www.apsbank.com.mt/). 
+I am a DevOps Engineer at [GiG](https://www.gig.com/). 
 
 - 🌐 Visit my [porfolio website](https://www.andreabugeja.me) for complete background and contact.
 ----
