@@ -1,9 +1,10 @@
-## Hi there I'm Andrea 👋 <img src = "https://gpvc.arturio.dev/arogan178" align = "right" >
+## Hi there I'm Andrea 👋 ![](https://komarev.com/ghpvc/?username=arogan178&abbreviated=true)
+
  <a href="https://www.linkedin.com/in/andrea-bugeja" target="_blank" rel="nofollow"><img align="right" alt="Andrea's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 I am a DevOps Engineer at [GiG](https://www.gig.com/). 
 
-- 🌐 Visit my [porfolio website](https://www.andreabugeja.me) for complete background and contact.
+- 🌐 Visit my [website](https://www.andreabugeja.me) for complete background and contact.
 ----
 On the side: 
   - sprinter 🏃🏽‍♂️
