@@ -4,7 +4,7 @@
 
 I am a DevOps Engineer at [GiG](https://www.gig.com/). 
 
-- 🌐 Visit my [website](https://www.andreabugeja.me) for complete background and contact.
+- 🌐 For complete background and contact, visit my [website](https://www.andreabugeja.me) ❤️
 ----
 On the side: 
   - sprinter 🏃🏽‍♂️
