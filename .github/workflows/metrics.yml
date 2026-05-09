@@ -15,8 +15,11 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: arogan178
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
           config_timezone: Europe/Malta
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           config_theme: dark
+          plugin_isocalendar: no
+          plugin_stargazers: no
+          plugin_followers: no

@@ -39,6 +39,6 @@ I am a **DevOps Engineer** at [GiG](https://www.gig.com/). I hold a Master's in 
 <summary>My GitHub Stats</summary>
 <p align="center">
   <!-- This image will be automatically generated and updated daily by GitHub Actions -->
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="100%">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="400">
 </p>
 </details>
