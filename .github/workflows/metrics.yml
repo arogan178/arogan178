@@ -19,7 +19,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: arogan178
           config_timezone: Europe/Malta
-          config_theme: dark
           template: classic
           base: header
           plugin_languages: yes
