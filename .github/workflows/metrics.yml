@@ -20,7 +20,7 @@ jobs:
           user: arogan178
           config_timezone: Europe/Malta
           config_theme: dark
-          template: terminal
+          template: classic
           base: header
           plugin_languages: yes
           plugin_languages_limit: 6
