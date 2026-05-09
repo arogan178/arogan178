@@ -1,44 +1,28 @@
-## Hi there, I'm Andrea 👋 ![](https://komarev.com/ghpvc/?username=arogan178&abbreviated=true)
+## Hi there, I'm Andrea 👋
 
-I am a **DevOps Engineer** at [GiG](https://www.gig.com/). I hold a Master's in Artificial Intelligence from the University of Malta and am CKAD certified by the Linux Foundation.
+I am a **DevOps Engineer** at [GiG](https://www.gig.com/), based in Malta. I hold a Master's in Artificial Intelligence and a BSc in Game Design & Development. 
 
-<div align="left">
-  <a href="https://www.andreabugeja.me"><img src="https://img.shields.io/badge/Portfolio-andreabugeja.me-2f80ed?style=flat-square" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/andrea-bugeja"><img src="https://img.shields.io/badge/LinkedIn-Andrea_Bugeja-0077b5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-</div>
+Beyond my work in infrastructure and data platforms, I am a dedicated athlete with national recognition as a sprinter. When I'm not circling the track, you'll find me gaming, competing in online tournaments, or tinkering with my self-hosted home server.
 
-### 🔭 Currently Working On
-- Streamlining operations through efficient CI/CD pipelines, Ansible, and Kubernetes deployments.
-- Building and scaling my personal project, [Macrotrackr](https://macrotrackr.com).
+[🌐 Website](https://www.andreabugeja.me) • [💼 LinkedIn](https://www.linkedin.com/in/andrea-bugeja) • [📝 Resume](https://andreabugeja.me/resume/Andrea-Bugeja-Resume.pdf)
+
+### 🔭 Current Focus
+*   **GiG:** Optimizing data platform services, monitoring core gaming platforms, and streamlining CI/CD pipelines using Kubernetes, Helm, and Ansible.
+*   **MacroTrackr:** Building and scaling [MacroTrackr](https://macrotrackr.com), a macro and nutrition tracking web app built with React, TypeScript, Vite, Bun, and Elysia.
 
 ### 🛠️ Tech Stack
-**Cloud & Infrastructure:**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-**Orchestration & Containers:**
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**CI/CD & Automation:**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### ⚡ Outside of Work
-- 🏃🏽‍♂️ Sprinter & Athletics
-- 🖱️⌨️ Competitive Gaming
-- 🖥️ Managing my self-hosted home server
-- 🎣 Fishing
-
-<details>
-<summary>My GitHub Stats</summary>
-<p align="center">
-  <!-- This image will be automatically generated and updated daily by GitHub Actions -->
-  <img src="github-metrics.svg" alt="GitHub Metrics" width="400">
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,ansible,linux,terraform,helm&theme=dark" alt="Infrastructure" />
+  </a>
 </p>
-</details>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,ts,react,vite,tailwind,java,cs&theme=dark" alt="Languages and Frameworks" />
+  </a>
+</p>
+
+### 📊 GitHub Stats
+<p align="left">
+  <img src="github-metrics.svg" alt="GitHub Metrics" width="450">
+</p>
