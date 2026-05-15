@@ -4,24 +4,24 @@
 [![Website](https://img.shields.io/badge/Website-Visit_Me-brightgreen?style=flat&logo=google-chrome)](https://www.andreabugeja.me)
 [![Resume](https://img.shields.io/badge/Resume-View_PDF-red?style=flat&logo=adobe-acrobat-reader)](https://andreabugeja.me/resume/Andrea-Bugeja-Resume.pdf)
 
-I'm a **DevOps Engineer** at [GiG](https://www.gig.com/), based in Malta 🇲🇹. 
-With a Master’s in Artificial Intelligence and a background in Game Design & Development, I enjoy bridging the gap between intelligent software and robust infrastructure.
+I'm a **Data DevOps Engineer** at [GiG](https://www.gig.com/), based in Malta 🇲🇹.
+I work on Kubernetes data platforms, GitOps delivery, and production streaming infrastructure across Linux and cloud environments.
 
-Most of my day is spent building reliable platforms, automating the repetitive stuff, and diving into new technologies. Off the clock, you'll probably find me in my homelab—breaking things just to figure out how to put them back together.
+With a Master’s in Artificial Intelligence and a background in Game Design & Development, I enjoy working where software, data systems, and infrastructure meet. Off the clock, you'll probably find me in my homelab breaking things just to figure out how to put them back together.
 
 ---
 
 ## 🚀 What I'm currently working on
 
-### 🏢 GiG *(DevOps Engineer)*
-* Improving and maintaining large-scale data platform services using **ClickHouse**, **Kafka**, and **NiFi**.
-* Monitoring and supporting core gaming infrastructure.
-* Streamlining CI/CD pipelines and GitOps deployments with **ArgoCD**.
-* **Daily drivers:** Kubernetes, Helm, Ansible, Linux, Redis, Grafana, and Cloud Tooling.
+### 🏢 GiG *(Data DevOps Engineer)*
+* Operating production Kubernetes data platforms using **Kafka**, **ClickHouse**, **Redis**, and **NiFi**.
+* Maintaining GitOps and configuration workflows with **ArgoCD**, **Helm**, **Ansible**, and **Python**.
+* Supporting platform reliability, observability, and AWS capacity planning.
+* **Daily drivers:** Kubernetes, Helm, Ansible, Linux, Redis, Grafana, and cloud tooling.
 
 ### 📈 MacroTrackr *(Creator)*
-I'm building [MacroTrackr](https://macrotrackr.com), a nutrition tracking app focused on making macro tracking simple and less annoying.
-* **Stack:** React, TypeScript, Vite, Bun, & Elysia.
+I'm building [MacroTrackr](https://macrotrackr.com), an open-source nutrition tracking app with hosted cloud and self-hosted options.
+* **Stack:** React, TypeScript, Vite, Bun, Elysia, SQLite, and Docker Compose.
 
 ---
 
@@ -52,5 +52,5 @@ I'm building [MacroTrackr](https://macrotrackr.com), a nutrition tracking app fo
 ## 📊 GitHub Activity
 
 <p align="left">
-  <img src="./github-metrics.svg" width="380" alt="GitHub Metrics">
+  <img src="./github-metrics.svg" width="420" alt="GitHub Metrics">
 </p>
