@@ -1,4 +1,4 @@
-# Hey, I'm Andrea 👋 <img src="https://komarev.com/ghpvc/?username=arogan178&abbreviated=true&color=blue" alt="Profile Views" />
+# Hey, I'm Andrea 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrea-bugeja)
 [![Website](https://img.shields.io/badge/Website-Visit_Me-brightgreen?style=flat&logo=google-chrome)](https://www.andreabugeja.me)
@@ -47,6 +47,7 @@ I'm building [MacroTrackr](https://macrotrackr.com), an open-source nutrition tr
 * 🎮 **Gamer:** Competitive gaming here and there.
 * 📷 **Creator:** Producing athletics content & media.
 
+![](https://hit.yhype.me/github/profile?account_id=25248102)
 ---
 
 ## 📊 GitHub Activity
