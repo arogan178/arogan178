@@ -25,6 +25,23 @@ I'm building [MacroTrackr](https://macrotrackr.com), an open-source nutrition tr
 
 ---
 
+## 🧰 Open-source tools
+
+Things I built to solve problems at work and at home:
+
+| Project | What it does |
+| --- | --- |
+| [bitbucket-cli](https://github.com/arogan178/bitbucket-cli) | `bt`, a `gh`-style CLI for Bitbucket Cloud and Data Center. Install it with Homebrew or Scoop. |
+| [nifi-clickhouse-kafka-mcp](https://github.com/arogan178/nifi-clickhouse-kafka-mcp) | Read-only MCP server that lets AI assistants inspect NiFi, ClickHouse and Kafka safely. |
+| [config-to-vault](https://github.com/arogan178/config-to-vault) | Replicates Spring-style config from git into HashiCorp Vault KV v2. Dry run by default. |
+| [prometheus-resource-auto-update](https://github.com/arogan178/prometheus-resource-auto-update) | Right-sizes Kubernetes resources from Prometheus/Thanos usage and opens PRs automatically. |
+| [kafka-reset-offsets](https://github.com/arogan178/kafka-reset-offsets) | Interactive CLI for safely resetting Kafka consumer group offsets by date. |
+| [home-twin](https://github.com/arogan178/home-twin) | AI-accessible digital twin for homes, built on IFC, with lighting design and solar geometry. |
+| [minenotify](https://github.com/arogan178/minenotify) | Codex CLI and Claude Code notifications inside Minecraft. |
+| [aac-converter](https://github.com/arogan178/aac-converter) | Transcodes AAC audio to LPCM so videos import into DaVinci Resolve on Linux. |
+
+---
+
 ## 🛠️ Tech I work with
 
 ### Infrastructure, Data & DevOps
